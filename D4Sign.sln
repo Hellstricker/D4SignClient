@@ -11,10 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D4Sign.Client", "D4Sign.Cli
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D4Sign.Tests", "D4Sign.Tests\D4Sign.Tests.csproj", "{E2B94164-1248-4C63-9EB7-02A192BD984D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{1D3FC6AC-C62C-43C3-A152-FDA7AEF0559A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{F9C8AF58-DEC5-47D8-BBA5-01A01820ECB7}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +25,6 @@ Global
 		{E2B94164-1248-4C63-9EB7-02A192BD984D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2B94164-1248-4C63-9EB7-02A192BD984D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2B94164-1248-4C63-9EB7-02A192BD984D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F9C8AF58-DEC5-47D8-BBA5-01A01820ECB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F9C8AF58-DEC5-47D8-BBA5-01A01820ECB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F9C8AF58-DEC5-47D8-BBA5-01A01820ECB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F9C8AF58-DEC5-47D8-BBA5-01A01820ECB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -40,7 +32,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{3E1C6D00-E2B3-4D39-AC1D-4DC7FAAE5B26} = {2DA8C0F4-15AF-420C-925B-A6E19955BA65}
 		{E2B94164-1248-4C63-9EB7-02A192BD984D} = {9D44F750-4DEF-476F-BEDD-8200EA03226E}
-		{F9C8AF58-DEC5-47D8-BBA5-01A01820ECB7} = {1D3FC6AC-C62C-43C3-A152-FDA7AEF0559A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {23AB5E41-204B-40CE-8017-7A6855FA38B3}
